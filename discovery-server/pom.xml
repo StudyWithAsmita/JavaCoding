@@ -77,5 +77,9 @@
 			</plugin>
 		</plugins>
 	</build>
-
+<properties>
+  <sonar.projectKey>StudyWithAsmita_JavaCoding</sonar.projectKey>
+  <sonar.organization>studywithasmita</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 </project>
